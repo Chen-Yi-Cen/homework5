@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\C_code\HW5\HWP25\HWP25\Main.c(14,8): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  HWP25.vcxproj -> C:\C_code\HW5\HWP25\HWP25\x64\Debug\HWP25.exe
